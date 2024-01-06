@@ -34,7 +34,7 @@ Praesent varius interdum vehicula. Aenean risus libero, placerat at vestibulum e
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt.
 
-### Some great subheading (h3)
+### Some great subheading (h1)
 
 Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit. Proin convallis mi ac felis pharetra aliquam. Curabitur dignissim accumsan rutrum.
 
