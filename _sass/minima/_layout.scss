@@ -1,9 +1,16 @@
+
+#bannerimage {
+	width: 100%;
+	height: auto;
+	background-position: center;
+}
+
 /**
  * Site header
  */
 .site-header {
-  border-top: 5px solid $border-color-03;
-  border-bottom: 1px solid $border-color-01;
+  border-top: 5px solid lavender;
+  border-bottom: 1px solid indigo;
   min-height: $spacing-unit * 1.865;
   line-height: $base-line-height * $base-font-size * 2.25;
 
