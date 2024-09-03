@@ -1,21 +1,27 @@
 
-#bannerimage {
-	width: 100%;
-	height: auto;
-	background-position: center;
-}
+// .bannerimage {
+// 	width: 100%;
+// 	height: auto;
+// 	display: block;
+// 	margin: auto;
+// }
 
 /**
  * Site header
  */
 .site-header {
-  border-top: 5px solid lavender;
-  border-bottom: 1px solid indigo;
-  min-height: $spacing-unit * 1.865;
-  line-height: $base-line-height * $base-font-size * 2.25;
+  border-top: 5px solid rgb(121, 121, 255);
+  border-bottom: 5px solid indigo;
+  border-left: 5px solid rgb(121, 121, 255);
+  border-right: 5px solid indigo;
+	display: flex;
+  flex-direction: column;
+  align-items: center;
+//   min-height: $spacing-unit * 1.865;
+//   line-height: $base-line-height * $base-font-size * 2.25;
 
   // Positioning context for the mobile navigation icon
-  position: relative;
+//   position: relative;
 }
 
 .site-title {
